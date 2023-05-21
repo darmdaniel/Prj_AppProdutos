@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "prj_PAM",
+    "slug": "prj_PAM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
